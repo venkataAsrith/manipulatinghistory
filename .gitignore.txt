@@ -1,3 +1,4 @@
-can/*
+/bin/*
+/out/*
 *.py
 *.txt
